@@ -8,3 +8,6 @@
 - **Languages:** HTML, Javascript and CSS.
 - **Tools:** Git, GitHub and VS code
 
+### Connect With Me
+- Email: ezibiri@student.mitt.ca
+- Linkedin: https://www.linkedin.com/in/excel-zibiri-22a5503a2/
