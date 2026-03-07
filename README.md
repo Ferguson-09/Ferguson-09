@@ -12,3 +12,6 @@ Apart from coding I am open to many other activities I try to keep an open mind 
 ### Connect With Me
 - Email: excelzibiri5@gmail.com
 - Linkedin: https://www.linkedin.com/in/excel-zibiri-22a5503a2/
+
+### Stats
+![GitHub Stats](images/Stats.png)
