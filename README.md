@@ -9,5 +9,5 @@
 - **Tools:** Git, GitHub and VS code
 
 ### Connect With Me
-- Email: ezibiri@student.mitt.ca
+- Email: excelzibiri5@gmail.com
 - Linkedin: https://www.linkedin.com/in/excel-zibiri-22a5503a2/
