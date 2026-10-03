@@ -20,7 +20,8 @@ I am a passionate **Front-End** developer currently studying at the Manitoba Ins
 - Git
 - GitHub
 
-## Featured Projects
+### ⚽ FootballManager
+ASP.NET Core MVC application for managing football leagues, teams, players, and coaches. Built with Entity Framework Core, SQL Server, authentication, and role-based authorization.
 
 ## Connect With Me
 
